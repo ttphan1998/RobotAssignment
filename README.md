@@ -1,7 +1,7 @@
 UET-AI-Robot INT3409-21
-##Chalenge 1
+##Challenge 1
 
-Group members:	Nguyễn Như Duy Phương-16020267, Phan Tuấn Thành 
+Group members:	Nguyễn Như Duy Phương - 16020267, Phan Tuấn Thành - 16020280 
 
 ## Requirements
 * OS: Mac OS X 10.9+, Ubuntu 14.04+
