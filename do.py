@@ -1,0 +1,3 @@
+import yolo
+
+yolo.detect()
